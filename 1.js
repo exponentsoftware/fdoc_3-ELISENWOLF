@@ -61,7 +61,7 @@ const studentObj = {
     }
 }
 
-console.log(studentObj);
+// console.log(studentObj);
 
 const newStudentObj = {
     ...studentObj,
